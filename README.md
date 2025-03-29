@@ -1,9 +1,9 @@
 # Aim
-This project investigates the didijet excess observed at the Large Hadron Collider (LHC) to identify potential signals of physics beyond the Standard Model (BSM).
+This project investigates the didijet excess observed at the Large Hadron Collider (LHC) to identify potential signals of physics beyond the Standard Model.
 
 # Methodology
-Data Sources: Utilised data from the ATLAS and CMS experiments.
-Event Simulation: Employed Monte Carlo simulations to model events where vector bosons decay into dijets.
+Data Sources: Used data from the ATLAS and CMS experiments.
+Event Simulation: Used Monte Carlo simulations to model events where vector bosons decay into dijets.
 Analysis: Focused on resonant and non-resonant production models of new particles decaying into jets.
 Event Selection: Applied specific criteria to identify and select relevant events, minimizing background noise.
 Statistical Analysis: Combined the excess' significance from both the ATLAS and CMS results
